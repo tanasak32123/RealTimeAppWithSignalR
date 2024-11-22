@@ -1,0 +1,105 @@
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+*.cache
+
+# Folders
+bin/
+obj/
+debug/
+release/
+publish/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# IDE-specific files
+.vscode/
+.vs/
+.idea/
+.project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuration files
+appsettings*.json
+secrets.json
+*.env
+
+# Dependency management
+packages/
+node_modules/
+.nuget/
+.vs/
+*.nupkg
+project.lock.json
+
+# Build results
+artifacts/
+*.build/
+
+# Testing
+TestResults/
+*.coverage
+*.coveragexml
+
+# Code analysis
+*.orig
+*.diff
+*.patch
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains Rider / IntelliJ-based IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# NuGet specific files
+*.nupkg
+*.snupkg
+.nuget/
+
+# Azure related files
+local.settings.json
+
+# Resharper
+_ReSharper.Caches
+
+# Coverage
+coverage/
+
+# Database files
+*.mdf
+*.ldf
+
+# Static files
+static/
